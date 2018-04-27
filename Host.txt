@@ -1,0 +1,28 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 delivery1.lavanetwork.net
+127.0.0.1 adi.admicro.vn
+127.0.0.1 tracking.yomedia.vn
+127.0.0.1 lg1.logging.admicro.vn
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 sync.adaptv.advertising.com
+127.0.0.1 ds-vn.serving-sys.com
+127.0.0.1 sinvideo.adsrvr.org
+127.0.0.1 metrics.adnetwork.vn
+127.0.0.1 blueserving.com
+127.0.0.1 delivery.adnetwork.vn
+127.0.0.1 media1.admicro.vn
+127.0.0.1 adserver.adtech.de
+127.0.0.1 vividobj.653a351d.cdnviet.com
+127.0.0.1 pson.logging.admicro.vn
+127.0.0.1 http.tidaltv.com
+127.0.0.1 ad.crwdcntrl.net
+127.0.0.1 delivery.yomedia.vn
+127.0.0.1 lg.logging.admicro.vn
+127.0.0.1 trk-apse.tidaltv.com
+127.0.0.1 disp.tidaltv.com
+127.0.0.1 tag.gammaplatform.com
+127.0.0.1 delivery.m.ambientplatform.vn
+127.0.0.1 static.gammaplatform.com
+127.0.0.1 phimbathu.com/jwplayer7/jwplayer.flash.swf
