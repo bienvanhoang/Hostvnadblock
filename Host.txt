@@ -128,3 +128,6 @@
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zone.uniad.vn
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 beacons5.gvt2.com
